@@ -1,15 +1,15 @@
 package p01_introduction
 
 /*
-A simple function that takes a parameter of type String and returns Unit (i.e., no return value).
-A function that takes a second optional parameter with default value Info. The return type is omitted, meaning that it's actually Unit.
-A function that returns an integer.
-A single-expression function that returns an integer (inferred).
-Calls the first function with the argument Hello.
-Calls the function with two parameters, passing values for both of them.
-Calls the same function omitting the second one. The default value Info is used.
-Calls the same function using named arguments and changing the order of the arguments.
-Prints the result of a function call.
+1 A simple function that takes a parameter of type String and returns Unit (i.e., no return value).
+2 A function that takes a second optional parameter with default value Info. The return type is omitted, meaning that it's actually Unit.
+3 A function that returns an integer.
+4 A single-expression function that returns an integer (inferred).
+5 Calls the first function with the argument Hello.
+6 Calls the function with two parameters, passing values for both of them.
+7 Calls the same function omitting the second one. The default value Info is used.
+8 Calls the same function using named arguments and changing the order of the arguments.
+9 Prints the result of a function call.
 
  */
 fun printMessage(message: String): Unit {                               // 1
