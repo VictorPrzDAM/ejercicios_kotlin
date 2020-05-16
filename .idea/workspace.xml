@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6b79518-5ef6-46a0-a8b4-ec84e30a3247" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/p01_introduction/L07_NullSafety.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p01_introduction/L08_WorkingWithNulls.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p01_introduction/L10_clases.kt" afterDir="false" />
+    <list default="true" id="f6b79518-5ef6-46a0-a8b4-ec84e30a3247" name="Default Changelist" comment="un commit desde intelliJ">
+      <change afterPath="$PROJECT_DIR$/src/p01_introduction/L12_GenericFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p01_introduction/L13_inheritance.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p01_introduction/L14_InheritanceWithParameterizedConstructor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p01_introduction/L15_PassingConstructorElementsToSuperClass.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Victor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Victor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ej_kotlin_prj/META-INF/ej_kotlin_prj.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ej_kotlin_prj/META-INF/ej_kotlin_prj.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p01_introduction/L05_Variables.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/p01_introduction/L06_Variables.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p01_introduction/L11_Generics.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/p01_introduction/L11_Generics.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,24 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p01_introduction/L02_Functions.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p01_introduction/L06_Variables.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/p01_introduction/L07_NullSafety.kt">
           <provider selected="true" editor-type-id="text-editor">
@@ -57,11 +41,56 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/p01_introduction/L10_clases.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="52" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="52" />
+            <state relative-caret-position="255">
+              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/p01_introduction/L11_Generics.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-42">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/p01_introduction/L12_GenericFunction.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="122" selection-start-line="8" selection-start-column="122" selection-end-line="8" selection-end-column="122" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/p01_introduction/L13_inheritance.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/p01_introduction/L14_InheritanceWithParameterizedConstructor.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/p01_introduction/L15_PassingConstructorElementsToSuperClass.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -80,15 +109,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
               <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p01_introduction/L05_FunctionVarArgsParameter.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="2" lean-forward="true" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -119,14 +139,19 @@
         <option value="$PROJECT_DIR$/src/p01_introduction/L07_NullSafety.kt" />
         <option value="$PROJECT_DIR$/src/p01_introduction/L08_WorkingWithNulls.kt" />
         <option value="$PROJECT_DIR$/src/p01_introduction/L10_clases.kt" />
+        <option value="$PROJECT_DIR$/src/p01_introduction/L11_Generics.kt" />
+        <option value="$PROJECT_DIR$/src/p01_introduction/L12_GenericFunction.kt" />
+        <option value="$PROJECT_DIR$/src/p01_introduction/L13_inheritance.kt" />
+        <option value="$PROJECT_DIR$/src/p01_introduction/L14_InheritanceWithParameterizedConstructor.kt" />
+        <option value="$PROJECT_DIR$/src/p01_introduction/L15_PassingConstructorElementsToSuperClass.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1390" />
-    <option name="y" value="603" />
+    <option name="y" value="847" />
     <option name="width" value="2205" />
-    <option name="height" value="1467" />
+    <option name="height" value="1223" />
   </component>
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
@@ -192,7 +217,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.p01_introduction.L08_WorkingWithNullsKt">
+  <component name="RunManager" selected="Kotlin.p01_introduction.L13_inheritanceKt">
     <configuration name="p01_introduction.L06_VariablesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="ej_kotlin_prj" />
       <option name="VM_PARAMETERS" />
@@ -219,14 +244,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p03_SpecialClases.L01_DataClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="p01_introduction.L11_GenericsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="ej_kotlin_prj" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="p03_SpecialClases.L01_DataClassKt" />
+      <option name="MAIN_CLASS_NAME" value="p01_introduction.L11_GenericsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p01_introduction.L12_GenericFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ej_kotlin_prj" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="p01_introduction.L12_GenericFunctionKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p01_introduction.L13_inheritanceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ej_kotlin_prj" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="p01_introduction.L13_inheritanceKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -234,9 +285,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.p01_introduction.L13_inheritanceKt" />
+        <item itemvalue="Kotlin.p01_introduction.L12_GenericFunctionKt" />
+        <item itemvalue="Kotlin.p01_introduction.L11_GenericsKt" />
         <item itemvalue="Kotlin.p01_introduction.L08_WorkingWithNullsKt" />
         <item itemvalue="Kotlin.p01_introduction.L06_VariablesKt" />
-        <item itemvalue="Kotlin.p03_SpecialClases.L01_DataClassKt" />
       </list>
     </recent_temporary>
   </component>
@@ -263,10 +316,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="927" y="402" width="1470" height="978" extended-state="0" />
+    <frame x="927" y="565" width="1470" height="815" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2829787" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2829787" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -276,7 +329,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17612293" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21815519" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -285,7 +338,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.44089836" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286052" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32796487" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24951892" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -418,8 +471,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/p01_introduction/L10_clases.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="52" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="52" />
+        <state relative-caret-position="255">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p01_introduction/L13_inheritance.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p01_introduction/L14_InheritanceWithParameterizedConstructor.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p01_introduction/L12_GenericFunction.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="122" selection-start-line="8" selection-start-column="122" selection-end-line="8" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p01_introduction/L11_Generics.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p01_introduction/L15_PassingConstructorElementsToSuperClass.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
