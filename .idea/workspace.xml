@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6b79518-5ef6-46a0-a8b4-ec84e30a3247" name="Default Changelist" comment="un commit desde intelliJ">
-      <change afterPath="$PROJECT_DIR$/src/p01_introduction/L16_GettersAndSetters.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p02_controlflow/L01_When.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p02_controlflow/L02_WhenExpresion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p02_controlflow/L03_LoopsFor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p02_controlflow/L04_LoopsWhile.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p02_controlflow/L05_LoopsIterators.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p02_controlflow/L06_Ranges.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ej_kotlin_prj/META-INF/ej_kotlin_prj.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ej_kotlin_prj/META-INF/ej_kotlin_prj.kotlin_module" afterDir="false" />
     </list>
@@ -19,82 +24,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p01_introduction/L08_WorkingWithNulls.kt">
+        <entry file="file://$PROJECT_DIR$/src/p02_controlflow/L01_When.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            <state relative-caret-position="425">
+              <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p01_introduction/L10_clases.kt">
+        <entry file="file://$PROJECT_DIR$/src/p02_controlflow/L02_WhenExpresion.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+            <state relative-caret-position="442">
+              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p01_introduction/L11_Generics.kt">
+        <entry file="file://$PROJECT_DIR$/src/p02_controlflow/L03_LoopsFor.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-42">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p01_introduction/L12_GenericFunction.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="122" selection-start-line="8" selection-start-column="122" selection-end-line="8" selection-end-column="122" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p01_introduction/L13_inheritance.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p01_introduction/L14_InheritanceWithParameterizedConstructor.kt">
+        <entry file="file://$PROJECT_DIR$/src/p02_controlflow/L04_LoopsWhile.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p01_introduction/L15_PassingConstructorElementsToSuperClass.kt">
+        <entry file="file://$PROJECT_DIR$/src/p02_controlflow/L05_LoopsIterators.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="425">
+              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/p01_introduction/L16_GettersAndSetters.kt">
+        <entry file="file://$PROJECT_DIR$/src/p02_controlflow/L06_Ranges.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p01_introduction/L03_InfixFunctions.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="55" column="6" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
+            <state relative-caret-position="367">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -132,6 +110,13 @@
         <option value="$PROJECT_DIR$/src/p01_introduction/L15_PassingConstructorElementsToSuperClass.kt" />
         <option value="$PROJECT_DIR$/src/p01_introduction/Person.kt" />
         <option value="$PROJECT_DIR$/src/p01_introduction/L16_GettersAndSetters.kt" />
+        <option value="$PROJECT_DIR$/src/p01_introduction/L17_CustomGettersAndSetters.kt" />
+        <option value="$PROJECT_DIR$/src/p02_controlflow/L01_When.kt" />
+        <option value="$PROJECT_DIR$/src/p02_controlflow/L02_WhenExpresion.kt" />
+        <option value="$PROJECT_DIR$/src/p02_controlflow/L03_Loops.kt" />
+        <option value="$PROJECT_DIR$/src/p02_controlflow/L04_LoopsWhile.kt" />
+        <option value="$PROJECT_DIR$/src/p02_controlflow/L05_LoopsIterators.kt" />
+        <option value="$PROJECT_DIR$/src/p02_controlflow/L06_Ranges.kt" />
       </list>
     </option>
   </component>
@@ -163,7 +148,7 @@
               <item name="ej_kotlin_prj" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="ej_kotlin_prj" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="p01_introduction" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="p02_controlflow" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -205,33 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.p01_introduction.L17_CustomGettersAndSettersKt">
-    <configuration name="p01_introduction.L11_GenericsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="ej_kotlin_prj" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="p01_introduction.L11_GenericsKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p01_introduction.L12_GenericFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="ej_kotlin_prj" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="p01_introduction.L12_GenericFunctionKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.p02_controlflow.L06_RangesKt">
     <configuration name="p01_introduction.L13_inheritanceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="ej_kotlin_prj" />
       <option name="VM_PARAMETERS" />
@@ -271,13 +230,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p02_controlflow.L04_LoopsWhileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ej_kotlin_prj" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="p02_controlflow.L04_LoopsWhileKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p02_controlflow.L06_RangesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ej_kotlin_prj" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="p02_controlflow.L06_RangesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.p02_controlflow.L06_RangesKt" />
+        <item itemvalue="Kotlin.p02_controlflow.L04_LoopsWhileKt" />
         <item itemvalue="Kotlin.p01_introduction.L17_CustomGettersAndSettersKt" />
         <item itemvalue="Kotlin.p01_introduction.L16_GettersAndSettersKt" />
         <item itemvalue="Kotlin.p01_introduction.L13_inheritanceKt" />
-        <item itemvalue="Kotlin.p01_introduction.L12_GenericFunctionKt" />
-        <item itemvalue="Kotlin.p01_introduction.L11_GenericsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +301,7 @@
       <window_info id="UI Designer" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21815519" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -450,7 +435,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p01_introduction/L10_clases.kt">
+    <entry file="file://$PROJECT_DIR$/src/p01_introduction/L10_Classes.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
@@ -501,7 +486,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/p01_introduction/L03_InfixFunctions.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
+        <state relative-caret-position="414">
           <caret line="55" column="6" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
         </state>
       </provider>
@@ -513,10 +498,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/p01_introduction/L17_CustomGettersAndSetters.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/p01_introduction/L16_GettersAndSetters.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p02_controlflow/L01_When.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p02_controlflow/L02_WhenExpresion.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p02_controlflow/L03_LoopsFor.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p02_controlflow/L04_LoopsWhile.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p02_controlflow/L05_LoopsIterators.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p02_controlflow/L06_Ranges.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
