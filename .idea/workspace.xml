@@ -4,6 +4,7 @@
     <list default="true" id="f6b79518-5ef6-46a0-a8b4-ec84e30a3247" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Victor.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/p01_introduction/L03_InfixFunctions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p01_introduction/L04_OperationFunctions.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,11 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/p01_introduction/L03_InfixFunctions.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="29" column="50" lean-forward="true" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+            <state relative-caret-position="645">
+              <caret line="59" column="11" lean-forward="true" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/p01_introduction/L04_OperationFunctions.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -55,12 +65,13 @@
         <option value="$PROJECT_DIR$/src/p03_SpecialClases/L01_DataClass.kt" />
         <option value="$PROJECT_DIR$/src/p01_introduction/L02_Functions.kt" />
         <option value="$PROJECT_DIR$/src/p01_introduction/L03_InfixFunctions.kt" />
+        <option value="$PROJECT_DIR$/src/p01_introduction/L04_OperationFunctions.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1237" />
-    <option name="y" value="559" />
+    <option name="x" value="1390" />
+    <option name="y" value="603" />
     <option name="width" value="2205" />
     <option name="height" value="1467" />
   </component>
@@ -163,7 +174,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="825" y="373" width="1470" height="978" extended-state="0" />
+    <frame x="927" y="402" width="1470" height="978" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2829787" />
@@ -272,8 +283,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/p01_introduction/L03_InfixFunctions.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="29" column="50" lean-forward="true" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+        <state relative-caret-position="645">
+          <caret line="59" column="11" lean-forward="true" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p01_introduction/L04_OperationFunctions.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
         </state>
       </provider>
     </entry>
