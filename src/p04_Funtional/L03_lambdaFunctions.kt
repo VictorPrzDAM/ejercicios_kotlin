@@ -12,10 +12,15 @@ fun main() {
     val upperCase1: (String) -> String = { str: String -> str.toUpperCase() } // 1
 //    Type inference inside lambda: the type of the lambda parameter is inferred from the
 //    type of the variable it's assigned to.
+
     val upperCase2: (String) -> String = { str -> str.toUpperCase() }         // 2
+
+
 //    Type inference outside lambda: the type of the variable is inferred from the type
 //    of the lambda parameter and return value.
     val upperCase3 = { str: String -> str.toUpperCase() }                     // 3
+
+
 //    You cannot do both together, the compiler has no chance to infer the type that way.
     // val upperCase4 = { str -> str.toUpperCase() }                          // 4
 

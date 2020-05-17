@@ -6,8 +6,8 @@ package p04_Funtional
  Invokes func. The square function is actually executed.
  */
 
-// : (parametro_de_mi_funcion) -> retorno_de_mi_funcion
-fun operation(): (Int,Int) -> Int {                                     // 1
+// : la función que retornará es (parametro_de_mi_funcion) -> retorno_de_mi_funcion
+fun operation( ): (Int,Int) -> Int {                                     // 1
     return ::square //recordar que ::nombre es la forma de referirse a una operación
 }
 
