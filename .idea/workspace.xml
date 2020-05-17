@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6b79518-5ef6-46a0-a8b4-ec84e30a3247" name="Default Changelist" comment="un commit desde intelliJ">
-      <change afterPath="$PROJECT_DIR$/src/p02_controlflow/L07_EqualityCheck.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p02_controlflow/L08_ConditionalExpresion.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p03_SpecialClases/L02_EnumClases.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p03_SpecialClases/L03_SealedClasses.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p03_SpecialClases/L04_ObjectKeyWord.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p03_SpecialClases/L05_ObjectExpression.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p03_SpecialClases/L06_ObjectDeclaration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p03_SpecialClases/L07_CompanionObject.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p04_Funtional/L01_HighOrderFunctions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p04_Funtional/L02_ReturnigFunctions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p04_Funtional/L03_lambdaFunctions.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ej_kotlin_prj/META-INF/ej_kotlin_prj.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ej_kotlin_prj/META-INF/ej_kotlin_prj.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p03_SpecialClases/L01_DataClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/p03_SpecialClases/L01_DataClass.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,33 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p02_controlflow/L06_Ranges.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p02_controlflow/L07_EqualityCheck.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p02_controlflow/L08_ConditionalExpresion.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/p03_SpecialClases/L01_DataClass.kt">
           <provider selected="true" editor-type-id="text-editor">
@@ -101,17 +68,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/p03_SpecialClases/L06_ObjectDeclaration.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            <state relative-caret-position="105">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/p03_SpecialClases/L07_CompanionObject.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/p04_Funtional/L01_HighOrderFunctions.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="59" lean-forward="true" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/p04_Funtional/L02_ReturnigFunctions.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/p03_SpecialClases/L07_CompanionObject.kt">
+        <entry file="file://$PROJECT_DIR$/src/p04_Funtional/L03_lambdaFunctions.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            <state relative-caret-position="823">
+              <caret line="38" column="92" selection-start-line="38" selection-start-column="92" selection-end-line="38" selection-end-column="92" />
             </state>
           </provider>
         </entry>
@@ -164,12 +158,15 @@
         <option value="$PROJECT_DIR$/src/p03_SpecialClases/L05_ObjectExpression.kt" />
         <option value="$PROJECT_DIR$/src/p03_SpecialClases/L06_ObjectDeclaration.kt" />
         <option value="$PROJECT_DIR$/src/p03_SpecialClases/L07_CompanionObject.kt" />
+        <option value="$PROJECT_DIR$/src/p04_Funtional/L01_HighOrderFunctions.kt" />
+        <option value="$PROJECT_DIR$/src/p04_Funtional/L02_ReturnigFunctions.kt" />
+        <option value="$PROJECT_DIR$/src/p04_Funtional/L03_lambdaFunctions.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1615" />
-    <option name="width" value="2235" />
+    <option name="x" value="1446" />
+    <option name="width" value="2405" />
     <option name="height" value="2124" />
   </component>
   <component name="ProjectView">
@@ -194,7 +191,7 @@
               <item name="ej_kotlin_prj" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="ej_kotlin_prj" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="p03_SpecialClases" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="p04_Funtional" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -236,33 +233,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.p03_SpecialClases.L02_EnumClasesKt">
-    <configuration name="p02_controlflow.L04_LoopsWhileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="ej_kotlin_prj" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="p02_controlflow.L04_LoopsWhileKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p02_controlflow.L06_RangesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="ej_kotlin_prj" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="p02_controlflow.L06_RangesKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.p04_Funtional.L03_lambdaFunctionsKt">
     <configuration name="p02_controlflow.L07_EqualityCheckKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="ej_kotlin_prj" />
       <option name="VM_PARAMETERS" />
@@ -302,13 +273,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p04_Funtional.L01_HighOrderFunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ej_kotlin_prj" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="p04_Funtional.L01_HighOrderFunctionsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p04_Funtional.L03_lambdaFunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ej_kotlin_prj" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="p04_Funtional.L03_lambdaFunctionsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.p04_Funtional.L03_lambdaFunctionsKt" />
+        <item itemvalue="Kotlin.p04_Funtional.L01_HighOrderFunctionsKt" />
         <item itemvalue="Kotlin.p03_SpecialClases.L02_EnumClasesKt" />
         <item itemvalue="Kotlin.p03_SpecialClases.L01_DataClassKt" />
         <item itemvalue="Kotlin.p02_controlflow.L07_EqualityCheckKt" />
-        <item itemvalue="Kotlin.p02_controlflow.L06_RangesKt" />
-        <item itemvalue="Kotlin.p02_controlflow.L04_LoopsWhileKt" />
       </list>
     </recent_temporary>
   </component>
@@ -335,10 +332,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1077" y="0" width="1490" height="1416" extended-state="0" />
+    <frame x="964" y="0" width="1603" height="1416" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18321678" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16979909" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -348,7 +345,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20950156" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20950156" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -644,15 +641,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/p03_SpecialClases/L06_ObjectDeclaration.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        <state relative-caret-position="105">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/p03_SpecialClases/L07_CompanionObject.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        <state relative-caret-position="250">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p04_Funtional/L01_HighOrderFunctions.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="59" lean-forward="true" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p04_Funtional/L02_ReturnigFunctions.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p04_Funtional/L03_lambdaFunctions.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="823">
+          <caret line="38" column="92" selection-start-line="38" selection-start-column="92" selection-end-line="38" selection-end-column="92" />
         </state>
       </provider>
     </entry>
