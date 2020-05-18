@@ -12,7 +12,7 @@ fun main() {
 
     val words = listOf("Lets", "find", "something", "in", "collection", "somehow")        // 1
 
-    val first = words.find { it.startsWith("some") }                                // 2
+    val first = words.find { i -> i.startsWith("some") }                                // 2
 
     val last = words.findLast { it.startsWith("some") }                             // 3
 
