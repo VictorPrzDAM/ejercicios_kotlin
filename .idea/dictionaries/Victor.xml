@@ -2,11 +2,15 @@
   <dictionary name="Victor">
     <words>
       <w>función</w>
+<<<<<<< HEAD
       <w>genérica</w>
       <w>llamará</w>
       <w>parámetro</w>
       <w>realizará</w>
       <w>será</w>
+=======
+      <w>parámetro</w>
+>>>>>>> master
     </words>
   </dictionary>
 </component>
