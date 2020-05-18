@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6b79518-5ef6-46a0-a8b4-ec84e30a3247" name="Default Changelist" comment="un commit desde intelliJ">
-      <change afterPath="$PROJECT_DIR$/src/p07_Delegation/L03_StandarDelegates.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p07_Delegation/L04_StoringPorpertiesInAMap.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p8_ProductivityBooseters/L01_NamedArguments.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p8_ProductivityBooseters/L02_DestructingDeclarations.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p8_ProductivityBooseters/L03_Destructuring_Documentation.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ej_kotlin_prj/META-INF/ej_kotlin_prj.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ej_kotlin_prj/META-INF/ej_kotlin_prj.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p07_Delegation/L02_DelegateProperties.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/p07_Delegation/L02_DelegateProperties.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +19,35 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/p8_ProductivityBooseters/L01_NamedArguments.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/p8_ProductivityBooseters/L02_DestructingDeclarations.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/p8_ProductivityBooseters/L03_Destructuring_Documentation.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,9 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/p01_introduction/L13_inheritance.kt" />
-        <option value="$PROJECT_DIR$/src/p01_introduction/L14_InheritanceWithParameterizedConstructor.kt" />
-        <option value="$PROJECT_DIR$/src/p01_introduction/L15_PassingConstructorElementsToSuperClass.kt" />
         <option value="$PROJECT_DIR$/src/p01_introduction/Person.kt" />
         <option value="$PROJECT_DIR$/src/p01_introduction/L16_GettersAndSetters.kt" />
         <option value="$PROJECT_DIR$/src/p01_introduction/L17_CustomGettersAndSetters.kt" />
@@ -86,6 +111,9 @@
         <option value="$PROJECT_DIR$/src/p07_Delegation/L02_DelegateProperties.kt" />
         <option value="$PROJECT_DIR$/src/p07_Delegation/L03_StandarDelegates.kt" />
         <option value="$PROJECT_DIR$/src/p07_Delegation/L04_StoringPorpertiesInAMap.kt" />
+        <option value="$PROJECT_DIR$/src/p8_ProductivityBooseters/L01_NamedArguments.kt" />
+        <option value="$PROJECT_DIR$/src/p8_ProductivityBooseters/L02_DestructingDeclarations.kt" />
+        <option value="$PROJECT_DIR$/src/p8_ProductivityBooseters/L03_Destructuring_Documentation.kt" />
       </list>
     </option>
   </component>
@@ -116,7 +144,7 @@
               <item name="ej_kotlin_prj" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="ej_kotlin_prj" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="p07_Delegation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="p8_ProductivityBooseters" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -158,33 +186,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.p07_Delegation.L04_StoringPorpertiesInAMapKt">
-    <configuration name="p06_ScopeFunctions.L02_runKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="ej_kotlin_prj" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="p06_ScopeFunctions.L02_runKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p06_ScopeFunctions.L05_alsoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="ej_kotlin_prj" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="p06_ScopeFunctions.L05_alsoKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.p8_ProductivityBooseters.L03_Destructuring_DocumentationKt">
     <configuration name="p07_Delegation.L02_DelegatePropertiesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="ej_kotlin_prj" />
       <option name="VM_PARAMETERS" />
@@ -224,13 +226,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p8_ProductivityBooseters.L02_DestructingDeclarationsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ej_kotlin_prj" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="p8_ProductivityBooseters.L02_DestructingDeclarationsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p8_ProductivityBooseters.L03_Destructuring_DocumentationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ej_kotlin_prj" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="p8_ProductivityBooseters.L03_Destructuring_DocumentationKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.p8_ProductivityBooseters.L03_Destructuring_DocumentationKt" />
+        <item itemvalue="Kotlin.p8_ProductivityBooseters.L02_DestructingDeclarationsKt" />
         <item itemvalue="Kotlin.p07_Delegation.L04_StoringPorpertiesInAMapKt" />
         <item itemvalue="Kotlin.p07_Delegation.L03_StandarDelegatesKt" />
         <item itemvalue="Kotlin.p07_Delegation.L02_DelegatePropertiesKt" />
-        <item itemvalue="Kotlin.p06_ScopeFunctions.L05_alsoKt" />
-        <item itemvalue="Kotlin.p06_ScopeFunctions.L02_runKt" />
       </list>
     </recent_temporary>
   </component>
@@ -258,6 +286,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1155" y="0" width="1411" height="1416" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19393042" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -346,27 +375,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="un commit desde intelliJ" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/p01_introduction/L11_Generics.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-42">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p01_introduction/L15_PassingConstructorElementsToSuperClass.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p01_introduction/Person.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/p01_introduction/L03_InfixFunctions.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -700,6 +708,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p8_ProductivityBooseters/L01_NamedArguments.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p8_ProductivityBooseters/L02_DestructingDeclarations.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p8_ProductivityBooseters/L03_Destructuring_Documentation.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
