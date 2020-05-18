@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6b79518-5ef6-46a0-a8b4-ec84e30a3247" name="Default Changelist" comment="un commit desde intelliJ">
-      <change afterPath="$PROJECT_DIR$/src/p05_Collections/L08_First_Last.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p05_Collections/L09_count.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p05_Collections/L10_associateBy_groupBy.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p05_Collections/L11_Partition.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p05_Collections/L12_FlatMap.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p05_Collections/L13_min_max.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p05_Collections/L14_sorted.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p05_Collections/L15_MapElementAccess.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p05_Collections/L16_zip.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p05_Collections/L17_GetOrElse.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ej_kotlin_prj/META-INF/ej_kotlin_prj.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ej_kotlin_prj/META-INF/ej_kotlin_prj.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p05_Collections/L08_find_findLast.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/p05_Collections/L08_find_findLast.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,24 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p05_Collections/L07_Any_All_None.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="559">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p05_Collections/L08_find_findLast.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/p05_Collections/L08_First_Last.kt">
           <provider selected="true" editor-type-id="text-editor">
@@ -107,11 +82,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/p05_Collections/L15_MapElementAccess.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="510">
+              <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/p05_Collections/L16_zip.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/p05_Collections/L17_GetOrElse.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -132,8 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/p01_introduction/HelloWord.kt" />
-        <option value="$PROJECT_DIR$/src/p01_introduction/L02_Functions.kt" />
         <option value="$PROJECT_DIR$/src/p01_introduction/L03_InfixFunctions.kt" />
         <option value="$PROJECT_DIR$/src/p01_introduction/L04_OperationFunctions.kt" />
         <option value="$PROJECT_DIR$/src/p01_introduction/L05_FunctionVarArgsParameter.kt" />
@@ -183,6 +174,8 @@
         <option value="$PROJECT_DIR$/src/p05_Collections/L13_min_max.kt" />
         <option value="$PROJECT_DIR$/src/p05_Collections/L14_sorted.kt" />
         <option value="$PROJECT_DIR$/src/p05_Collections/L15_MapElementAccess.kt" />
+        <option value="$PROJECT_DIR$/src/p05_Collections/L16_zip.kt" />
+        <option value="$PROJECT_DIR$/src/p05_Collections/L17_GetOrElse.kt" />
       </list>
     </option>
   </component>
@@ -255,20 +248,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.p05_Collections.L15_MapElementAccessKt">
-    <configuration name="p05_Collections.L09_countKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="ej_kotlin_prj" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="p05_Collections.L09_countKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.p05_Collections.L16_zipKt">
     <configuration name="p05_Collections.L10_associateBy_groupByKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="ej_kotlin_prj" />
       <option name="VM_PARAMETERS" />
@@ -321,13 +301,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p05_Collections.L16_zipKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ej_kotlin_prj" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="p05_Collections.L16_zipKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.p05_Collections.L16_zipKt" />
         <item itemvalue="Kotlin.p05_Collections.L15_MapElementAccessKt" />
         <item itemvalue="Kotlin.p05_Collections.L13_min_maxKt" />
         <item itemvalue="Kotlin.p05_Collections.L12_FlatMapKt" />
         <item itemvalue="Kotlin.p05_Collections.L10_associateBy_groupByKt" />
-        <item itemvalue="Kotlin.p05_Collections.L09_countKt" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +350,7 @@
     <frame x="1014" y="0" width="1553" height="1416" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1754856" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1754856" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -367,7 +360,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20950156" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20950156" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -444,20 +437,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="un commit desde intelliJ" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/p01_introduction/L01_HelloWord.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p01_introduction/L05_FunctionVarArgsParameter.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="2" lean-forward="true" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/p01_introduction/L02_Functions.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -796,8 +775,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/p05_Collections/L15_MapElementAccess.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="510">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p05_Collections/L16_zip.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p05_Collections/L17_GetOrElse.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
         </state>
       </provider>
     </entry>
