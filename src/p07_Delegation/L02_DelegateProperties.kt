@@ -18,8 +18,11 @@ class Example {
 
     override fun toString() = "Example Class"
 }
-
+/*
+delega a la clase 'Delegate
+*/
 class Delegate() {
+
     operator fun getValue(thisRef: Any?, prop: KProperty<*>): String {        // 2
         return "$thisRef, thank you for delegating '${prop.name}' to me!"
     }
